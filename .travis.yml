@@ -4,6 +4,6 @@ python:
 #command to install dependencies
 install: "pip install --user coverage"
 #command to run tests
-scrip:
+script:
 -coverage run test_sumar.py
 -coverage report
