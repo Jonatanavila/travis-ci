@@ -1,4 +1,4 @@
-lenguaje:python 
+languaje: python 
 python: 
 - "3.5"
 #command to install dependencies
